@@ -1,0 +1,168 @@
+/* body {
+background-color: rgb(37, 43, 66);
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+height: 2000px;
+}
+
+.container {
+margin: auto;
+    width: 1170px;
+}
+
+.header .logo {
+float: left;
+color: white;
+width: 20%;
+}
+
+.header .logo span {
+    color: rgb(35, 166, 240);
+}
+
+.header .login {
+float: right;
+}
+
+.header .login span {
+color: white;
+font-size: 20px;
+padding: 10px 20px;
+border-radius: 8px;
+cursor: pointer;
+font-weight: bold;
+text-transform: uppercase;
+}
+
+.header .login span:hover {
+background-color: rgb(35, 166, 240);
+
+}
+
+.header .navbar {
+color: black;
+overflow: hidden;
+text-transform: uppercase;
+width: 60%;
+}
+
+.header .navbar ul {
+text-transform: uppercase;
+list-style: none;
+overflow: hidden;
+}
+
+.header .navbar ul li {
+float: left;
+padding: 10px;
+}
+
+.header .navbar ul li a {
+text-decoration: none;
+color: white;
+font-weight: bold;
+font-size: 25px;
+position: relative;
+cursor: pointer;
+padding: 5px;
+transition: color 1s;
+}
+
+.header .navbar ul li a::after {
+position: absolute;
+content: "";
+inset: 0;
+background: rgb(35, 166, 240);
+scale: 1 0;
+z-index: -1;
+transition: 1s;
+border-radius: 10px;
+}
+
+.header .navbar ul li a:hover {
+    color: white;
+}
+
+.header .navbar ul li a:hover::after {
+    scale: 1 1;
+}
+
+
+
+.landing .intro h2 {
+color: rgb(35, 166, 240);
+text-align: center;
+font-size: 20px;
+padding-top: 100px;
+}
+
+.landing .intro p {
+text-align: center;
+color: white;
+font-size: 80px;
+}
+
+.landing .intro h4 {
+text-align: center;
+color: white;
+}
+
+.landing .btn {
+text-align: center;
+}
+
+.landing .btn button {
+color: rgb(35, 166, 240);
+background-color: rgb(37, 43, 66);
+font-size: 20px;
+padding: 10px 20px;
+border-color: rgb(35, 166, 240);
+border-radius: 8px;
+cursor: pointer;
+}
+
+.landing .btn button:hover {
+color: white;
+background-color: rgb(35, 166, 240);
+}
+
+.features {
+text-align: center;
+overflow: hidden;
+padding: 40px 0;
+font-size: 10px;
+justify-content: space-around;
+}
+
+.features .feat {
+width: 30%;
+float: left;
+border: 2px solid black;
+margin: 10px;
+}
+.features .feat {
+    background-color: rgb(35, 166, 240);
+height: 200px;
+color: white;
+}
+
+.features .feat h2 {
+font-weight: bold;
+font-size: 18px;
+color: black;
+}
+
+
+
+
+.features .feat p {
+font-size: 15px;
+}
+
+
+img {
+border: 5px solid white;
+display: flex;
+justify-content: center;
+align-items: center;
+} */
+
